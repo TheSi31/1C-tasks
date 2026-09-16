@@ -41,8 +41,13 @@
   <subsystems>Subsystem.Задача_1</subsystems>
   <subsystems>Subsystem.Задача_2</subsystems>
   <catalogs>Catalog.Номенклатура_Задача_1</catalogs>
+  <catalogs>Catalog.Номенклатура_Задача_2</catalogs>
+  <catalogs>Catalog.СкладЗадача_2</catalogs>
   <documents>Document.ПриходнаяНакладнаяЗадача_1</documents>
+  <documents>Document.ПриходнаяНакладнаяЗадача_2</documents>
   <documents>Document.РасходнаяНакладнаяЗадача_1</documents>
+  <documents>Document.РасходнаяНакладнаяЗадача_2</documents>
   <reports>Report.ОтчетЗадача_1</reports>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_1</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_2</accumulationRegisters>
 </mdclass:Configuration>
