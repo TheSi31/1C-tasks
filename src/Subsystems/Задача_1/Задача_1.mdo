@@ -7,5 +7,9 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>Catalog.Товары_Задача_1</content>
+  <content>Catalog.Номенклатура_Задача_1</content>
+  <content>Document.ПриходнаяНакладнаяЗадача_1</content>
+  <content>Document.РасходнаяНакладнаяЗадача_1</content>
+  <content>AccumulationRegister.ОстаткиТовараЗадача_1</content>
+  <content>Report.ОтчетЗадача_1</content>
 </mdclass:Subsystem>

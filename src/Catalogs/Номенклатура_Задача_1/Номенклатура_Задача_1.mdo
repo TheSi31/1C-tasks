@@ -7,14 +7,14 @@
     <listType typeId="6b2c3367-c25c-4374-a2de-08713d03d633" valueTypeId="f861380a-9874-4cd4-93cd-15e1d6e4ab43"/>
     <managerType typeId="04186a9f-3c24-41c5-9363-47e887897ffb" valueTypeId="b665f066-dd79-47ac-82f7-512f3a8a8a5a"/>
   </producedTypes>
-  <name>Товары_Задача_1</name>
+  <name>Номенклатура_Задача_1</name>
   <synonym>
     <key>ru</key>
-    <value>Товары задача 1</value>
+    <value>Номенклатура задача 1</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Товары_Задача_1.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Товары_Задача_1.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Номенклатура_Задача_1.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Номенклатура_Задача_1.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>

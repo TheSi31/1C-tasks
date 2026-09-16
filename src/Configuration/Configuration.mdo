@@ -39,5 +39,10 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Задача_1</subsystems>
-  <catalogs>Catalog.Товары_Задача_1</catalogs>
+  <subsystems>Subsystem.Задача_2</subsystems>
+  <catalogs>Catalog.Номенклатура_Задача_1</catalogs>
+  <documents>Document.ПриходнаяНакладнаяЗадача_1</documents>
+  <documents>Document.РасходнаяНакладнаяЗадача_1</documents>
+  <reports>Report.ОтчетЗадача_1</reports>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_1</accumulationRegisters>
 </mdclass:Configuration>
