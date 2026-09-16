@@ -48,6 +48,7 @@
   <documents>Document.РасходнаяНакладнаяЗадача_1</documents>
   <documents>Document.РасходнаяНакладнаяЗадача_2</documents>
   <reports>Report.ОтчетЗадача_1</reports>
+  <reports>Report.ОтчетЗадача_2</reports>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_1</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_2</accumulationRegisters>
 </mdclass:Configuration>
