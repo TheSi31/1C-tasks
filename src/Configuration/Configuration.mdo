@@ -40,15 +40,22 @@
   </languages>
   <subsystems>Subsystem.Задача_1</subsystems>
   <subsystems>Subsystem.Задача_2</subsystems>
+  <subsystems>Subsystem.Задача_3</subsystems>
   <catalogs>Catalog.Номенклатура_Задача_1</catalogs>
   <catalogs>Catalog.Номенклатура_Задача_2</catalogs>
+  <catalogs>Catalog.Номенклатура_Задача_3</catalogs>
   <catalogs>Catalog.СкладЗадача_2</catalogs>
+  <catalogs>Catalog.СкладЗадача_3</catalogs>
   <documents>Document.ПриходнаяНакладнаяЗадача_1</documents>
   <documents>Document.ПриходнаяНакладнаяЗадача_2</documents>
+  <documents>Document.ПриходнаяНакладнаяЗадача_3</documents>
   <documents>Document.РасходнаяНакладнаяЗадача_1</documents>
   <documents>Document.РасходнаяНакладнаяЗадача_2</documents>
+  <documents>Document.РасходнаяНакладнаяЗадача_3</documents>
   <reports>Report.ОтчетЗадача_1</reports>
   <reports>Report.ОтчетЗадача_2</reports>
+  <reports>Report.ОтчетЗадача_3</reports>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_1</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_2</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТовараЗадача_3</accumulationRegisters>
 </mdclass:Configuration>

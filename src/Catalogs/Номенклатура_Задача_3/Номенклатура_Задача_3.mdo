@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9d7a7c21-4859-44df-9344-92e74a21ed40">
+  <producedTypes>
+    <objectType typeId="2e6b59d9-01ef-44f7-888e-a2ceee3c1702" valueTypeId="ebbcdf2b-85b4-4e33-b467-c0a02cc94fc4"/>
+    <refType typeId="bf4a56ce-a368-45b0-802e-22c92b539d34" valueTypeId="d93b65db-6f4b-4638-88d2-dae00efb5c35"/>
+    <selectionType typeId="a2687a49-bca2-470c-8614-fb2d9642236b" valueTypeId="ca647db2-038c-49fc-a66f-a8c1f75c4283"/>
+    <listType typeId="ffb79e15-349f-40c1-9964-d4ae4f131ebd" valueTypeId="ce2d7c76-5509-4a2e-b817-95f421065f1e"/>
+    <managerType typeId="36d2b287-f2dd-490e-bb94-7c0896822749" valueTypeId="b444328d-31a2-49fe-b941-f5982b70d7ed"/>
+  </producedTypes>
+  <name>Номенклатура_Задача_3</name>
+  <synonym>
+    <key>ru</key>
+    <value>Номенклатура задача 3</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Номенклатура_Задача_3.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Номенклатура_Задача_3.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
