@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bd22ce42-b03f-479d-acc8-5cdf51e1a44f">
+  <producedTypes>
+    <objectType typeId="2eaf9371-7705-4263-a129-8766de752e50" valueTypeId="ec1fd78c-6af1-4853-8fe1-391c8c9410d8"/>
+    <refType typeId="1535aeaa-b673-4c9f-a1c1-6368fbfd1847" valueTypeId="ab8f0d9e-92f8-4603-a9d2-3f30f020399b"/>
+    <selectionType typeId="751ed5c2-eb8e-479f-b18a-7df764699680" valueTypeId="2229dcbb-7d6a-41bc-a548-8609672ec1aa"/>
+    <listType typeId="91176318-f40f-4e1d-8655-9f7bd3e3c2d3" valueTypeId="d88ef005-c5ea-4b77-9085-9e7ce6dae7e6"/>
+    <managerType typeId="8bc0ab11-8730-4881-896f-caf8dbe246fb" valueTypeId="56f5f10d-09f4-4678-871b-ba6e40170a77"/>
+  </producedTypes>
+  <name>СкладЗадача_4</name>
+  <synonym>
+    <key>ru</key>
+    <value>Склад задача 4</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СкладЗадача_4.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СкладЗадача_4.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

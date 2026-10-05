@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fdec7938-6f49-44c6-88b0-513221b40fad">
+  <name>Задача_4</name>
+  <synonym>
+    <key>ru</key>
+    <value>Задача 4</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ПриходнаяНакладнаяЗадача_4</content>
+  <content>Document.РасходнаяНакладнаяЗадача_4</content>
+  <content>AccumulationRegister.ПродажиТовараЗадача_4</content>
+  <content>AccumulationRegister.ОстаткиТовараЗадача_4</content>
+  <content>Catalog.Номенклатура_Задача_4</content>
+  <content>Catalog.СкладЗадача_4</content>
+  <content>Report.ОтчетЗадача_4</content>
+</mdclass:Subsystem>
