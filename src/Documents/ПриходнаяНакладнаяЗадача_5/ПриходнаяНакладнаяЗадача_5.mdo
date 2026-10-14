@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2dc685e4-5cf5-46bd-bc7e-41edf3b8b8d9">
+  <producedTypes>
+    <objectType typeId="60559763-7dd3-4901-b17a-7d59231f853d" valueTypeId="b1043068-e3fa-4e72-8fd7-42574352f380"/>
+    <refType typeId="d9a3ca07-7012-4ba8-92e1-f887ffab0ff4" valueTypeId="0ff9fe14-3f8d-447a-9e7b-049532213094"/>
+    <selectionType typeId="257a79e3-1865-4b12-b87b-b5c8b0795890" valueTypeId="5ff21ef0-78e0-467c-ad0b-f80744335a94"/>
+    <listType typeId="688611e1-522c-4452-8a05-91fc74ca1f60" valueTypeId="32b76ca6-1abb-4848-967f-17012542a476"/>
+    <managerType typeId="4bfd2673-d9e7-4191-b30a-5c8a56c76143" valueTypeId="b10f039c-4b0b-47cb-b9f6-9480854ad3f9"/>
+  </producedTypes>
+  <name>ПриходнаяНакладнаяЗадача_5</name>
+  <synonym>
+    <key>ru</key>
+    <value>Приходная накладная задача 5</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ПриходнаяНакладнаяЗадача_5.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <registerRecords>AccumulationRegister.ОстаткиТовараЗадача_5</registerRecords>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <tabularSections uuid="0002d694-ef88-43d8-b932-955b10c241cd">
+    <producedTypes>
+      <objectType typeId="a41a031d-6ce7-4007-82f5-7700bb110319" valueTypeId="f364c4a0-1589-412d-8fa5-fe47a3548519"/>
+      <rowType typeId="ae487e4f-10c1-4560-9f55-c12021c23847" valueTypeId="9229fbd9-6168-4bf4-9db9-4b881cd7996b"/>
+    </producedTypes>
+    <name>Товары</name>
+    <synonym>
+      <key>ru</key>
+      <value>Товары</value>
+    </synonym>
+    <attributes uuid="b8525a10-b207-4372-86dd-1d02d2b6282e">
+      <name>Номенклатура</name>
+      <synonym>
+        <key>ru</key>
+        <value>Номенклатура</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Номенклатура_Задача_5</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="b190b623-293c-44ba-ad21-f14ec54606bd">
+      <name>СрокГодности</name>
+      <synonym>
+        <key>ru</key>
+        <value>Срок годности</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="278eb441-59a7-487f-9501-5f873abb89a0">
+      <name>Количество</name>
+      <synonym>
+        <key>ru</key>
+        <value>Количество</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+          <scale>3</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <lineNumberLength>9</lineNumberLength>
+  </tabularSections>
+</mdclass:Document>
